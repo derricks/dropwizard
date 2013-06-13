@@ -7,7 +7,7 @@
 
     <groupId>com.yammer.dropwizard</groupId>
     <artifactId>dropwizard-parent</artifactId>
-    <version>0.7.0-OPOWER-SNAPSHOT</version>
+    <version>0.7.0-OPOWER</version>
     <packaging>pom</packaging>
     <name>Dropwizard Project</name>
     <url>http://dropwizard.codahale.com/</url>
@@ -58,7 +58,7 @@
         <connection>scm:git:git://github.com/codahale/dropwizard.git</connection>
         <developerConnection>scm:git:git@github.com:codahale/dropwizard.git</developerConnection>
         <url>http://github.com/codahale/dropwizard/</url>
-      <tag>HEAD</tag>
+      <tag>v0.7.0-OPOWER</tag>
   </scm>
 
     <issueManagement>
